@@ -52,9 +52,6 @@ LIMIT 10;
 DESCRIBE city;
 ```
 
-
-
-
 <br>
 
 - **Power BI Dashboards** 
