@@ -52,8 +52,6 @@ LIMIT 10;
 DESCRIBE city;
 ```
 
-### Results
-[View query results screenshot](./query-results.png)
 
 
 world dataset ERD Model
