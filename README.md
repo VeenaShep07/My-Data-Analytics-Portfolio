@@ -6,8 +6,16 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 ## What I work on 
 - Designing practical data analytics curricula and teaching materials - Teaching live coding sessions and workshops 
-- Creating real-world datasets and case studies for learners 
+- Creating real-world datasets and case studies for learners
+
+<br><br><br>
+
 ## Selected projects – 
+
+**Excel Cleaning** 
+- A cleaned Excel table
+  [Excel Table(main/Excel%201.png) 
+
 **Intro to Python for Data Analysis** 
 – Python notebooks covering data types, loops, and basic Pandas. 
 
