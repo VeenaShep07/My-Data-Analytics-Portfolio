@@ -55,6 +55,11 @@ DESCRIBE city;
 ### Results
 [View query results screenshot](./query-results.png)
 
+
+world dataset ERD Model
+[ERD Model](world%20dataset%20ERD%20model.mwb) 
+
+
 <br>
 
 - **Power BI Dashboards** 
