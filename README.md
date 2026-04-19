@@ -14,19 +14,30 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 **Excel Cleaning** 
 - A cleaned Excel table
-  [Excel Table](Excel_1.png) 
+  [Excel Table](Excel_1.png)
+
+  <br>
 
 **Intro to Python for Data Analysis** 
-– Python notebooks covering data types, loops, and basic Pandas. 
+– Python notebooks covering data types, loops, and basic Pandas.
+[Python Cleaning](Cleaning_%26_Visuals.ipynb) 
+
+<br>
 
 - **SQL for Analysts** 
-– Example database and queries for teaching SELECT, JOIN, and aggregation. 
+– Example database and queries for teaching SELECT, JOIN, and aggregation.
+
+<br>
 
 - **Power BI Dashboards** 
-– Sample reports showing KPIs, slicers, and interactive visuals. 
+– Sample reports showing KPIs, slicers, and interactive visuals.
+
+<br>
 
 - **Tableau** 
-– Sample reports showing KPIs, slicers, and interactive visuals. 
+– Sample reports showing KPIs, slicers, and interactive visuals.
+
+<br>  
 
 ## Get in touch 
 - Email: *(add your email here if you want)*
