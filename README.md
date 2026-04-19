@@ -25,13 +25,42 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 <br>
 
 - **SQL for Analysts** 
-– Example database and queries for teaching SELECT, JOIN, and aggregation.
+## SQL Queries & Database Analysis
+
+### World Database Queries
+I've created SQL queries to analyze the world database. View the complete script: [world-queries.sql](./world-queries.sql)
+
+### Key Queries Demonstrated:
+
+**1. Count Cities in USA**
+```sql
+SELECT COUNT(*) AS Number_of_Cities_in_USA
+FROM city
+WHERE CountryCode = 'USA';
+```
+
+**2. Cities with Countries (JOIN Example)**
+```sql
+SELECT c.Name, co.Name as Country
+FROM city c
+JOIN country co ON c.CountryCode = co.Code
+LIMIT 10;
+```
+
+**3. View Table Structure**
+```sql
+DESCRIBE city;
+```
+
+### Results
+[View query results screenshot](./query-results.png)
 
 <br>
 
 - **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals.
-- Power BI Dashboards – Sample reports showing KPIs, slicers, and interactive visuals. [View Dashboard](https://app.powerbi.com/links/2DmghdB003?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare) 
+- Power BI Dashboards – Sample reports showing KPIs, slicers, and interactive visuals. [View Dashboard](https://app.powerbi.com/links/2DmghdB003?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+  
 
 <br>
 
