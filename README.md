@@ -14,7 +14,7 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 **Excel Cleaning** 
 - A cleaned Excel table
-  [Excel Table](Excel%201.png) 
+  [Excel Table](Excel_1.png) 
 
 **Intro to Python for Data Analysis** 
 – Python notebooks covering data types, loops, and basic Pandas. 
