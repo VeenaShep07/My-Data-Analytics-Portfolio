@@ -31,6 +31,7 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 - **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals.
+https://app.powerbi.com/view?r=eyJrIjoiNzYzNmVhMGYtNjNiMi00NjRlLTk3NTctZWVkMjdmNmM2NWVjIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9 
 
 <br>
 
@@ -41,5 +42,11 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 ## Get in touch 
 - Email: *(add your email here if you want)*
+
+
+
+
+
+
 
 
