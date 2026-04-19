@@ -28,7 +28,7 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 ## SQL Queries & Database Analysis
 
 ### World Database Queries
-I've created SQL queries to analyze the world database. View the complete script: [world-queries.sql](world%20queries.sql)
+I've created SQL queries to analyze the world database. View the complete script: [world_queries.sql](world_queries.sql)
 
 ### Key Queries Demonstrated:
 
