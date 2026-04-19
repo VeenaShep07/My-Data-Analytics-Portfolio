@@ -14,7 +14,7 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 **Excel Cleaning** 
 - A cleaned Excel table
-  [Excel Table](Excel_1.png)
+  [Excel Table](Excel_1.png) 
 
   <br>
 
