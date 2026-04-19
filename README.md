@@ -57,7 +57,7 @@ DESCRIBE city;
 
 
 world dataset ERD Model
-[ERD Model](world%20dataset%20ERD%20model.mwb) 
+[world dataset ERD model.mwb](world%20dataset%20ERD%20model.mwb) 
 
 
 <br>
