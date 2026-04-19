@@ -31,7 +31,7 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 - **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals.
-(https://app.powerbi.com/view?r=eyJrIjoiNzYzNmVhMGYtNjNiMi00NjRlLTk3NTctZWVkMjdmNmM2NWVjIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9) 
+- Power BI Dashboards – Sample reports showing KPIs, slicers, and interactive visuals. [View Dashboard](https://app.powerbi.com/view/?r=eyJrIjoiNzYzNmVhMGYtNjNiMi00NjRlTk3NctZWVkMjdmNmM2NWVjliwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwM) 
 
 <br>
 
